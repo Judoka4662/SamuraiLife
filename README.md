@@ -1,3 +1,3 @@
 # SamuraiLife
-![](logos/Color%20logo%20-%20no%20background.png)
+![](logos/Untitled%20design%20(34).png)
 A website I created for Judokas to find free Judo techniques and content 
